@@ -1,5 +1,5 @@
 # Python CircleCI Config file
-version: 2
+version: 2.1
 jobs: 
     build:
         docker:
